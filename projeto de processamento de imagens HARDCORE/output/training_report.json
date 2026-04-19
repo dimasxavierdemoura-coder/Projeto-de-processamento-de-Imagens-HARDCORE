@@ -1,0 +1,249 @@
+{
+  "abacaxi": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 197.0
+  },
+  "amendoa": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 46.0
+  },
+  "amora": {
+    "precision": 1.0,
+    "recall": 0.9977678571428571,
+    "f1-score": 0.9988826815642458,
+    "support": 448.0
+  },
+  "avocado": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 612.0
+  },
+  "banana": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 384.0
+  },
+  "berinjela": {
+    "precision": 0.993006993006993,
+    "recall": 1.0,
+    "f1-score": 0.9964912280701754,
+    "support": 142.0
+  },
+  "beterraba": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 90.0
+  },
+  "cachorro": {
+    "precision": 0.6862489120974761,
+    "recall": 0.632317562149158,
+    "f1-score": 0.6581803005008348,
+    "support": 2494.0
+  },
+  "caqui": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 98.0
+  },
+  "carambola": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 193.0
+  },
+  "castanha de caju": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 45.0
+  },
+  "cebola": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 473.0
+  },
+  "cenoura": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 30.0
+  },
+  "cereja": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 664.0
+  },
+  "coco": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 98.0
+  },
+  "couve flor": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 140.0
+  },
+  "damasco": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 98.0
+  },
+  "feminino": {
+    "precision": 0.9898305084745763,
+    "recall": 0.9864864864864865,
+    "f1-score": 0.988155668358714,
+    "support": 296.0
+  },
+  "figo da india": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 380.0
+  },
+  "figo roxo": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 140.0
+  },
+  "gato": {
+    "precision": 0.6588628762541806,
+    "recall": 0.7106212424849699,
+    "f1-score": 0.6837639799460085,
+    "support": 2495.0
+  },
+  "gengibre": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 147.0
+  },
+  "goiaba": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 98.0
+  },
+  "kiwi": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 93.0
+  },
+  "laranja": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 380.0
+  },
+  "lichia": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 98.0
+  },
+  "limao": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 197.0
+  },
+  "maca": {
+    "precision": 0.9996901146575767,
+    "recall": 1.0,
+    "f1-score": 0.9998450333178367,
+    "support": 3226.0
+  },
+  "mamao": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 145.0
+  },
+  "manga": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 183.0
+  },
+  "maracuja": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 98.0
+  },
+  "melancia": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 95.0
+  },
+  "melao": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 291.0
+  },
+  "milho": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 182.0
+  },
+  "mirtilo": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 92.0
+  },
+  "morango": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 436.0
+  },
+  "pitaya": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 98.0
+  },
+  "repolho": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 59.0
+  },
+  "uva": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 727.0
+  },
+  "accuracy": 0.898568608094768,
+  "macro avg": {
+    "precision": 0.9827599847305334,
+    "recall": 0.982748542263166,
+    "f1-score": 0.9827004844040466,
+    "support": 16208.0
+  },
+  "weighted avg": {
+    "precision": 0.8988996049127651,
+    "recall": 0.898568608094768,
+    "f1-score": 0.8984136321852566,
+    "support": 16208.0
+  }
+}
